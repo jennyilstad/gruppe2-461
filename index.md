@@ -11,7 +11,7 @@ git init [-q | --quiet] [--bare] [--template=<template_directory>]
 
    <body>
       <h1>Oppgave 461<h1>
-      <a href= "webside.flexbox/index.html" target="blank"> <button style="width:24%"> Trykk her</button> </a>
+      <a href= "webside_flexbox/index.html" target="blank"> <button style="width:24%"> Trykk her</button> </a>
     </body>
 </html>
 git add [--verbose | -v] [--dry-run | -n] [--force | -f] [--interactive | -i] [--patch | -p]
