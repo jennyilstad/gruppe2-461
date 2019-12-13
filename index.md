@@ -3,8 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Å være miljøvennlig</title>
-    <link rel="stylesheet" href="stil.css">
+      <title> Oppgave 461</title>
   </head>
 
    <body>
